@@ -22,4 +22,4 @@ This project is an IoT-based system that collects data from sensors and sends it
 - Remote access  
 
 ## Author
-Your Name
+Jyoti
